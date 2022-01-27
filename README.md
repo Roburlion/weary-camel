@@ -6,7 +6,7 @@ This site is up at https://weary-camel.herokuapp.com/
 This app is a non working project stub without any apps.
 
 The goal of this app is to get it on Heroku as quickly as possible, that way it can be used as an agile start for other project (like the library and polls tutorials)
-
+> ### This site is published on heroku at https://weary-camel.herokuapp.com/
 ### push an existing repository from the command line
 ```bash
 echo "# weary-camel-interactive" >> README.md
